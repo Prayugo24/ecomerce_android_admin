@@ -1,0 +1,50 @@
+<resources>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+
+    <style name="Material.Dark" parent="android:Theme.Material">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="android:colorPrimary">@color/colorPrimary</item>
+        <item name="android:colorPrimaryDark">@color/colorPrimaryDark</item>
+    </style>
+
+    <style name="Light.Material" parent="android:Theme.Material.Light.DarkActionBar" >
+        <item name="android:colorPrimary">@color/colorPrimary</item>
+        <item name="android:colorPrimaryDark">@color/colorPrimaryDark</item>
+    </style>
+
+    <style name="MaterialLight" parent="android:Theme.Material.Light.DarkActionBar" >
+        <item name="android:colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="android:colorPrimary">@color/colorPrimary</item>
+    </style>
+
+    <style name="MaterialLights" parent="android:Theme.Material.Light.DarkActionBar" >
+        <item name="android:colorPrimary">@color/primary_material_dark_2</item>
+        <item name="android:colorPrimaryDark">@color/colorPrimaryDark</item>
+    </style>
+
+    <style name="Material.Light" parent="android:Theme.Material.Light.DarkActionBar" >
+        <item name="android:colorPrimary">@color/primary_material_darks</item>
+        <item name="android:colorPrimaryDark">@color/colorPrimaryDark</item>
+    </style>
+
+    <style name="a" parent="android:Theme.Material.Light.DarkActionBar" >
+        <item name="android:colorPrimary">@color/primary_material_dark_3</item>
+        <item name="android:colorPrimaryDark">@color/colorPrimaryDark</item>
+    </style>
+
+    <style name="AppCompatDark" parent="android:Theme.Material" >
+        <item name="android:colorPrimary">@color/colorPrimary</item>
+        <item name="android:colorPrimaryDark">@color/colorPrimaryDark</item>
+    </style>
+
+    <style name="Material..Light" parent="android:Theme.Material.Light.DarkActionBar" >
+        <item name="android:colorPrimary">@color/primary_material_dark</item>
+        <item name="android:colorPrimaryDark">@color/primary_dark_material_dark</item>
+    </style>
+</resources>

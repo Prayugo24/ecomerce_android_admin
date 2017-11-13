@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/LinearLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="10dp"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/textViewidtrans"
+        android:layout_width="match_parent"
+        android:gravity="center"
+        android:text="TextView"
+        android:textAlignment="viewStart"
+        tools:ignore="RtlCompat"
+        android:layout_height="25dp"
+        android:textColor="@color/common_google_signin_btn_text_dark_focused" />
+
+    <TextView
+        android:id="@+id/textViewtgl"
+        android:layout_width="match_parent"
+        android:gravity="center"
+        android:text="TextView"
+        android:textAlignment="viewStart"
+        android:layout_height="25dp" />
+
+    <TextView
+        android:id="@+id/textViewtotal"
+        android:layout_width="match_parent"
+        android:gravity="center"
+        android:text="TextView"
+        android:textAlignment="viewStart"
+        android:layout_height="25dp" />
+
+    <TextView
+        android:id="@+id/textViewStatus"
+        android:layout_width="match_parent"
+        android:gravity="center"
+        android:text="TextView"
+        android:textAlignment="viewStart"
+        android:layout_height="25dp"
+        android:textStyle="normal|bold"
+        android:textColor="@color/colorPrimary" />
+
+</LinearLayout>

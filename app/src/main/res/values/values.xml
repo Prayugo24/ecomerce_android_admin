@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--MERAH-->
+    <color name="primary_material_darks">@color/colorPrimary</color>
+    <color name="primary_material_dark">@color/colorPrimary</color>
+    <color name="primary_dark_material_dark">@color/colorPrimaryDark</color>
+
+    <!--HIJAU-->
+    <!--<color name="primary_material_darks">#b2fc38</color>-->
+    <!--<color name="primary_material_dark">#3cb144</color>-->
+    <!--<color name="primary_dark_material_dark">#028b13</color>-->
+
+</resources>

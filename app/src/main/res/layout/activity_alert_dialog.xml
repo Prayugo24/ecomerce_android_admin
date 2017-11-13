@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+    <TextView
+        android:id="@+id/tv_title"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/colorPrimaryDark"
+        android:gravity="center"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:text="Peringatan"
+        android:textSize="20sp"
+        android:textColor="#ffff"
+        android:textStyle="bold"/>
+    <ImageView
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_alignRight="@+id/tv_title"
+        android:layout_marginRight="50dp"
+        android:src="@drawable/warning"
+
+        />
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#fff"
+        android:paddingBottom="16dp"
+        android:layout_below="@+id/tv_title"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+
+
+        <ImageButton
+            android:id="@+id/image_pop"
+            android:layout_width="56dp"
+            android:layout_height="56dp"
+            android:background="#00ffffff"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="15dp"
+            android:scaleType="centerCrop"
+            android:contentDescription="image"
+            android:src="@drawable/trial"
+
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/image_pop"
+            android:textColor="#000"
+            android:gravity="center"
+            android:text="@string/trial_text"
+            android:textSize="18sp"/>
+    </RelativeLayout>
+
+</RelativeLayout>

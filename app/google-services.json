@@ -1,0 +1,879 @@
+{
+  "project_info": {
+    "project_number": "1063056390047",
+    "firebase_url": "https://cimols-admin.firebaseio.com",
+    "project_id": "cimols-admin",
+    "storage_bucket": "cimols-admin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063056390047:android:0e3b170dcd41398b",
+        "android_client_info": {
+          "package_name": "com.cumikosmetik.admin.cimol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063056390047-mujmldth6crd4ujvi4fel665h2ga02f5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbrcT_QU5edft9rS1PRL3BznPmn28zGdw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063056390047:android:25e31d23eb94b343",
+        "android_client_info": {
+          "package_name": "com.hijabsolo.admin.cimol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063056390047-mujmldth6crd4ujvi4fel665h2ga02f5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbrcT_QU5edft9rS1PRL3BznPmn28zGdw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063056390047:android:65821403d5e34cdf",
+        "android_client_info": {
+          "package_name": "com.tbalfatihcom.admin.cimol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063056390047-mujmldth6crd4ujvi4fel665h2ga02f5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbrcT_QU5edft9rS1PRL3BznPmn28zGdw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063056390047:android:224762cf97728cad",
+        "android_client_info": {
+          "package_name": "com.berkahclodimenspad.admin.cimol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063056390047-mujmldth6crd4ujvi4fel665h2ga02f5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbrcT_QU5edft9rS1PRL3BznPmn28zGdw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063056390047:android:72885db560369851",
+        "android_client_info": {
+          "package_name": "com.grluna.admin.cimol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063056390047-mujmldth6crd4ujvi4fel665h2ga02f5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbrcT_QU5edft9rS1PRL3BznPmn28zGdw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063056390047:android:d2209234d3dd91a6",
+        "android_client_info": {
+          "package_name": "com.larisbro.admin.cimol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063056390047-mujmldth6crd4ujvi4fel665h2ga02f5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbrcT_QU5edft9rS1PRL3BznPmn28zGdw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063056390047:android:34f75014ee4267d0",
+        "android_client_info": {
+          "package_name": "com.vienkoebutik.admin.cimol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063056390047-mujmldth6crd4ujvi4fel665h2ga02f5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbrcT_QU5edft9rS1PRL3BznPmn28zGdw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063056390047:android:836d2be2115c2ae5",
+        "android_client_info": {
+          "package_name": "com.adirafinance.admin.cimol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063056390047-mujmldth6crd4ujvi4fel665h2ga02f5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbrcT_QU5edft9rS1PRL3BznPmn28zGdw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063056390047:android:81db6a086a510471",
+        "android_client_info": {
+          "package_name": "com.lapakponti99.admin.cimol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063056390047-mujmldth6crd4ujvi4fel665h2ga02f5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbrcT_QU5edft9rS1PRL3BznPmn28zGdw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063056390047:android:40bbeada0b4a4ba2",
+        "android_client_info": {
+          "package_name": "com.geraimadualifa.admin.cimol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063056390047-mujmldth6crd4ujvi4fel665h2ga02f5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbrcT_QU5edft9rS1PRL3BznPmn28zGdw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063056390047:android:cd7ec63bad29d58d",
+        "android_client_info": {
+          "package_name": "com.portalproduk.admin.cimol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063056390047-mujmldth6crd4ujvi4fel665h2ga02f5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbrcT_QU5edft9rS1PRL3BznPmn28zGdw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063056390047:android:b547bf15e8b355ea",
+        "android_client_info": {
+          "package_name": "com.nasastore.admin.cimol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063056390047-mujmldth6crd4ujvi4fel665h2ga02f5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbrcT_QU5edft9rS1PRL3BznPmn28zGdw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063056390047:android:be694ea54f973166",
+        "android_client_info": {
+          "package_name": "com.bbmall.admin.cimol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063056390047-mujmldth6crd4ujvi4fel665h2ga02f5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbrcT_QU5edft9rS1PRL3BznPmn28zGdw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063056390047:android:1c5fc33ee74cef9d",
+        "android_client_info": {
+          "package_name": "com.beebeemall.admin.cimol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063056390047-mujmldth6crd4ujvi4fel665h2ga02f5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbrcT_QU5edft9rS1PRL3BznPmn28zGdw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063056390047:android:5424bfb0058d0a7f",
+        "android_client_info": {
+          "package_name": "com.fashionshow.admin.cimol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063056390047-mujmldth6crd4ujvi4fel665h2ga02f5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbrcT_QU5edft9rS1PRL3BznPmn28zGdw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063056390047:android:da4d6047eae80811",
+        "android_client_info": {
+          "package_name": "com.azya_shop.admin.cimol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063056390047-mujmldth6crd4ujvi4fel665h2ga02f5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbrcT_QU5edft9rS1PRL3BznPmn28zGdw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063056390047:android:3642170a6c982687",
+        "android_client_info": {
+          "package_name": "com.azyashop.admin.cimol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063056390047-mujmldth6crd4ujvi4fel665h2ga02f5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbrcT_QU5edft9rS1PRL3BznPmn28zGdw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063056390047:android:27c2778c1929c5fd",
+        "android_client_info": {
+          "package_name": "com.emmoshop.admin.cimol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063056390047-mujmldth6crd4ujvi4fel665h2ga02f5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbrcT_QU5edft9rS1PRL3BznPmn28zGdw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063056390047:android:d22a96eac85990e0",
+        "android_client_info": {
+          "package_name": "com.haveindonesia.member.cimol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063056390047-mujmldth6crd4ujvi4fel665h2ga02f5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbrcT_QU5edft9rS1PRL3BznPmn28zGdw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063056390047:android:999f145278f47198",
+        "android_client_info": {
+          "package_name": "com.haveindonesia.admin.cimol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063056390047-mujmldth6crd4ujvi4fel665h2ga02f5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbrcT_QU5edft9rS1PRL3BznPmn28zGdw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063056390047:android:4d82eb871c679b11",
+        "android_client_info": {
+          "package_name": "com.abrasive.admin.cimol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063056390047-mujmldth6crd4ujvi4fel665h2ga02f5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbrcT_QU5edft9rS1PRL3BznPmn28zGdw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063056390047:android:95aaa43e0bed1dd2",
+        "android_client_info": {
+          "package_name": "com.bolehkaka.admin.cimol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063056390047-mujmldth6crd4ujvi4fel665h2ga02f5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbrcT_QU5edft9rS1PRL3BznPmn28zGdw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063056390047:android:56c916c5cc24d15c",
+        "android_client_info": {
+          "package_name": "com.bms.admin.cimol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063056390047-mujmldth6crd4ujvi4fel665h2ga02f5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbrcT_QU5edft9rS1PRL3BznPmn28zGdw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063056390047:android:2f396e8229284982",
+        "android_client_info": {
+          "package_name": "com.trialdua.admin.cimol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063056390047-mujmldth6crd4ujvi4fel665h2ga02f5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbrcT_QU5edft9rS1PRL3BznPmn28zGdw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063056390047:android:d1d806f009b89912",
+        "android_client_info": {
+          "package_name": "com.blue_diamond_id.admin.cimol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063056390047-mujmldth6crd4ujvi4fel665h2ga02f5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbrcT_QU5edft9rS1PRL3BznPmn28zGdw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063056390047:android:fe4e71512aea8bc0",
+        "android_client_info": {
+          "package_name": "com.arthahp.admin.cimol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063056390047-mujmldth6crd4ujvi4fel665h2ga02f5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbrcT_QU5edft9rS1PRL3BznPmn28zGdw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063056390047:android:9a01128962b563b3",
+        "android_client_info": {
+          "package_name": "com.paten_online.admin.cimol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063056390047-mujmldth6crd4ujvi4fel665h2ga02f5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbrcT_QU5edft9rS1PRL3BznPmn28zGdw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063056390047:android:7c64932ad802f092",
+        "android_client_info": {
+          "package_name": "com.mulai_berkarya.admin.cimol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063056390047-mujmldth6crd4ujvi4fel665h2ga02f5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbrcT_QU5edft9rS1PRL3BznPmn28zGdw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

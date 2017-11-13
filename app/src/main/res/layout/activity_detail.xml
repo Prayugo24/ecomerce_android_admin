@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TableLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/border_no">
+
+            <TableRow
+                android:padding="0dp"
+                android:weightSum="2">
+
+                <TextView
+                    style="@style/detailBrgKiri"
+                    android:layout_weight="1"
+                    android:text="ID TRANSAKSI" />
+
+                <TextView
+                    android:id="@+id/textViewidtransaksi22"
+                    style="@style/detailBrgKanan"
+                    android:layout_weight="1" />
+            </TableRow>
+
+            <TableRow
+                android:padding="0dp"
+                android:weightSum="2">
+
+                <TextView
+                    style="@style/detailBrgKiri"
+                    android:layout_weight="1"
+                    android:text="TANGGAL" />
+
+                <TextView
+                    android:id="@+id/textviewtgl_trans22"
+                    style="@style/detailBrgKanan"
+                    android:layout_weight="1" />
+            </TableRow>
+        </TableLayout>
+
+        <ListView
+            android:id="@+id/listviewdetail22"
+            android:layout_width="wrap_content"
+            android:layout_height="200dp"
+            android:layout_margin="10dp"></ListView>
+
+        <TextView
+            style="@style/detailBrgKanan"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="KONFIRMASI PEMBAYARAN"
+            android:textStyle="bold" />
+
+
+        <TableLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:background="@drawable/border_no">
+
+            <TableRow
+                android:padding="0dp"
+                android:weightSum="2">
+
+                <TextView
+                    style="@style/detailBrgKiri"
+                    android:layout_weight="1"
+                    android:text="a.n." />
+
+                <TextView
+                    android:id="@+id/textatasnama2"
+                    style="@style/detailBrgKanan"
+                    android:layout_weight="1" />
+            </TableRow>
+
+            <TableRow
+                android:padding="0dp"
+                android:weightSum="2">
+
+                <TextView
+                    style="@style/detailBrgKiri"
+                    android:layout_weight="1"
+                    android:text="ALAMAT" />
+
+                <TextView
+                    android:id="@+id/textViewAlamat2"
+                    style="@style/detailBrgKanan"
+                    android:layout_weight="1" />
+            </TableRow>
+
+            <TableRow
+                android:padding="0dp"
+                android:weightSum="2">
+
+                <TextView
+                    style="@style/detailBrgKiri"
+                    android:layout_weight="1" />
+
+                <TextView
+                    android:id="@+id/textviewkec2"
+                    style="@style/detailBrgKanan"
+                    android:layout_weight="1" />
+            </TableRow>
+
+            <TableRow
+                android:padding="0dp"
+                android:weightSum="2">
+
+                <TextView
+                    style="@style/detailBrgKiri"
+                    android:layout_weight="1" />
+
+                <TextView
+                    android:id="@+id/textViewkab2"
+                    style="@style/detailBrgKanan"
+                    android:layout_weight="1" />
+            </TableRow>
+
+            <TableRow
+                android:padding="0dp"
+                android:weightSum="2">
+
+                <TextView
+                    style="@style/detailBrgKiri"
+                    android:layout_weight="1" />
+
+                <TextView
+                    android:id="@+id/textViewprof2"
+                    style="@style/detailBrgKanan"
+                    android:layout_weight="1" />
+            </TableRow>
+
+            <TableRow
+                android:padding="0dp"
+                android:weightSum="2">
+
+                <TextView
+                    style="@style/detailBrgKiri"
+                    android:layout_weight="1" />
+
+                <TextView
+                    android:id="@+id/textViewkodepos2"
+                    style="@style/detailBrgKanan"
+                    android:layout_weight="1" />
+            </TableRow>
+
+            <TableRow
+                android:padding="0dp"
+                android:weightSum="2">
+
+                <TextView
+                    style="@style/detailBrgKiri"
+                    android:layout_weight="1"
+                    android:text="TELEPON" />
+
+                <TextView
+                    android:id="@+id/textViewtlp2"
+                    style="@style/detailBrgKanan"
+                    android:layout_weight="1" />
+            </TableRow>
+
+            <TableRow
+                android:padding="0dp"
+                android:weightSum="2">
+
+                <TextView
+                    style="@style/detailBrgKiri"
+                    android:layout_weight="1"
+                    android:text="SUB TOTAL" />
+
+                <TextView
+                    android:id="@+id/textViewsubt22"
+                    style="@style/detailBrgKanan"
+                    android:layout_weight="1" />
+            </TableRow>
+
+            <TableRow
+                android:padding="0dp"
+                android:weightSum="2">
+
+                <TextView
+                    style="@style/detailBrgKiri"
+                    android:layout_weight="1"
+                    android:text="ONGKIR" />
+
+                <TextView
+                    android:id="@+id/textViewongkir22"
+                    style="@style/detailBrgKanan"
+                    android:layout_weight="1" />
+            </TableRow>
+
+            <TableRow
+                android:padding="0dp"
+                android:weightSum="2">
+
+                <TextView
+                    style="@style/detailBrgKiri"
+                    android:layout_weight="1"
+                    android:text="TOTAL" />
+
+                <TextView
+                    android:id="@+id/textViewttl22"
+                    style="@style/detailBrgKanan"
+                    android:layout_weight="1" />
+            </TableRow>
+
+            <TableRow
+                android:padding="0dp"
+                android:weightSum="2">
+
+                <TextView
+                    style="@style/detailBrgKiri"
+                    android:layout_weight="1"
+                    android:text="KURIR" />
+
+                <TextView
+                    android:id="@+id/textViewkurir"
+                    style="@style/detailBrgKanan"
+                    android:layout_weight="1" />
+            </TableRow>
+        </TableLayout>
+
+        <TableLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TableRow
+                android:padding="0dp"
+                android:weightSum="2">
+
+                <TextView
+                    style="@style/detailBrgKiri"
+                    android:layout_weight="1"
+                    android:text="NAMA" />
+
+                <TextView
+                    android:id="@+id/textViewnamarek"
+                    style="@style/detailBrgKanan"
+                    android:layout_weight="1" />
+            </TableRow>
+
+            <TableRow
+                android:padding="0dp"
+                android:weightSum="2">
+
+                <TextView
+                    style="@style/detailBrgKiri"
+                    android:layout_weight="1"
+                    android:text="NO. REK." />
+
+                <TextView
+                    android:id="@+id/textViewnorek"
+                    style="@style/detailBrgKanan"
+                    android:layout_weight="1" />
+            </TableRow>
+
+            <TableRow
+                android:padding="0dp"
+                android:weightSum="2">
+
+                <TextView
+                    style="@style/detailBrgKiri"
+                    android:layout_weight="1"
+                    android:text="JUMLAH" />
+
+                <TextView
+                    android:id="@+id/textViewjmlrek"
+                    style="@style/detailBrgKanan"
+                    android:layout_weight="1" />
+            </TableRow>
+        </TableLayout>
+
+        <TextView
+            android:id="@+id/textviResi22"
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:layout_gravity="center"
+            android:layout_margin="10dp"
+            android:gravity="center_vertical" />
+
+        <EditText
+            android:id="@+id/edittextResi"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:ems="10"
+            android:hint="Nomor Resi"
+            android:inputType="textPersonName" />
+
+        <Button
+            android:id="@+id/btnresi"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_below="@+id/linear"
+            android:layout_centerHorizontal="true"
+            android:layout_weight="0.41"
+            android:background="#ee0000"
+            android:text="MASUKAN RESI"
+            android:textColor="@android:color/white" />
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#7B1FA2</color>
+    <color name="colorPrimaryDark">#6A1B9A</color>
+    <color name="colorAccent">#b4b7e2</color>
+    <color name="colorBackground">#091386</color>
+
+    <color name="black_20">#33000000</color>
+    <color name="list_row_hover_start_color">#ebeef0</color>
+    <color name="list_row_start_color">#ebeef0</color>
+    <color name="list_row_hover_end_color">#ebeef0</color>
+    <color name="list_row_end_color">#ebeef0</color>
+    <color name="primary_dark_material_dark_2">#0c158a</color>
+    <color name="primary_material_dark_1">#6A1B9A</color>
+    <color name="primary_material_dark_2">#6A1B9A</color>
+    <color name="primary_material_dark_3">#6A1B9A</color>
+    <color name="warna_ket">#9C27B0</color>
+    <color name="border">#f1f3f5</color>
+
+    <color name="fab_color">#6c72c5</color>
+    <color name="price_color">#E91E63</color>
+
+</resources>

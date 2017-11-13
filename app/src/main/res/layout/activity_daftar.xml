@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/RelativeLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:src="@mipmap/ic_launcher" />
+
+    <EditText
+        android:id="@+id/editNM"
+        android:layout_width="280dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/imageView1"
+        android:layout_centerHorizontal="true"
+        android:ems="10"
+        android:hint="Nama">
+        <requestFocus />
+    </EditText>
+    <EditText
+        android:id="@+id/editMail"
+        android:layout_width="280dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/editNM"
+        android:layout_centerHorizontal="true"
+        android:inputType="textEmailAddress"
+        android:ems="10"
+        android:hint="e-mail">
+    </EditText>
+
+    <EditText
+        android:id="@+id/editTelp"
+        android:layout_width="280dp"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/editMail"
+        android:ems="10"
+        android:inputType="number"
+        android:hint="No.Telp">
+    </EditText>
+
+
+    <EditText
+        android:id="@+id/editPw"
+        android:layout_width="280dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/editTelp"
+        android:layout_centerHorizontal="true"
+        android:ems="10"
+        android:hint="Password"
+        android:inputType="textPassword" >
+
+
+    </EditText>
+
+    <EditText
+        android:id="@+id/editKPw"
+        android:layout_width="280dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/editPw"
+        android:layout_centerHorizontal="true"
+        android:ems="10"
+        android:hint="Konfirmasi Password"
+        android:inputType="textPassword" />
+
+    <Button
+        android:id="@+id/bReg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/editKPw"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="54dp"
+        android:background="@color/colorPrimary"
+        android:textColor="@android:color/white"
+        android:text="Registrasi" />
+
+    <TextView
+        android:id="@+id/textError"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/editKPw"
+        android:layout_below="@+id/editKPw"
+        android:text=" " />
+
+</RelativeLayout>
